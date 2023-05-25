@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DSA-JAVA-CODES.iml" filepath="$PROJECT_DIR$/DSA-JAVA-CODES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaJavaCodes.iml" filepath="$PROJECT_DIR$/dsaJavaCodes.iml" />
     </modules>
   </component>
 </project>

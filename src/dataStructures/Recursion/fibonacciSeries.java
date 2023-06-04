@@ -1,3 +1,11 @@
+/*
+ *Fibonacci Series
+ * 0 1 1 2 3 5 8 .......n-terms
+ * first term = 0
+ * second term = 1
+ * next term = first term + second term
+ */
+
         package dataStructures.Recursion;
 
         public class fibonacciSeries {

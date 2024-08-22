@@ -1,2 +1,2 @@
 # DSA-JAVA-CODES
-Data Structure and Algorithm using Java 17 LTS
+Data Structure and Algorithm using Java 22 LTS
